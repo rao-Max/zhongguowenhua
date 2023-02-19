@@ -1,0 +1,361 @@
+/*版心*/
+.w{
+    width: 1200px;
+    margin: 0 auto;
+}
+.fr{
+    float: right;
+    line-height: 35px;
+    text-align: center;
+}
+.fl{
+    float: left;
+    line-height: 35px;
+    text-align: center;
+}
+.style_red{
+    color: #c81623;
+}
+/*快捷导航模块*/
+.shortcut {
+    height: 31px;
+    background-color: #f1f1f1;
+}
+/*header 头部制作*/
+.header {
+    height: 195px;
+    background-color: white;
+}
+.logo {
+    position: absolute;
+    width: 161px;
+    height: 195px;
+    background-color: blue;
+}
+.logo a {
+    display: block;
+    width: 161px;
+    height: 195px;
+    background: url(../images/guo\ one.jpg);
+    font-size: 0;
+}
+.search {
+    position: absolute;
+    left: 346px;
+    top: 50px;
+    width: 538px;
+    height: 36px;
+    border: 2px solid #b1191a;
+}
+.search input {
+    float: left;
+    width: 454px;
+    height: 32px;
+    padding: 10px;
+}
+.search button {
+    float: left;
+    width: 80px;
+    height: 32px;
+    background-color: #b1191a;
+    font-size: 16px;
+    color: #fff;
+}
+.hotwords {
+    position: absolute;
+    top: 120px;
+    left: 346px;
+}
+.hotwords a {
+    margin: 0 30px;
+}
+.shopcar {
+    position: absolute;
+    right: 135px;
+    top: 31px;
+    width: 185px;
+    height: 195px;
+    border: 1px solid #dfdfdf;
+    background-color: #fff;
+    background-image:url(../images/pt.jpg);
+}
+.shate {
+    position: absolute;
+    top: 145px;
+    right: 326px;
+    height: 80px;
+    width: 850px;
+    background-color: #fff;
+    background-image: url(../images/R.jpg);
+}
+.bimo {
+    position: absolute;
+    top: 225px;
+    height: 560px;
+    width: 480px;
+    background-repeat: no-repeat;
+    background-color: aqua;
+    background-image: url(../images/wenfang.jpg)
+}
+.jieshao {
+    position: absolute;
+    top: 225px;
+    right: 766px;
+    height: 560px;
+    width: 90px;
+    background-color: #c81623;
+}
+.op1 {
+    height: 140px;
+    width: 90px;
+    background-color: #fff;
+    background-image: url(../images/peng.jpg);
+    color: #fff;
+    background-repeat: no-repeat;
+}
+.op2 {
+    height: 140px;
+    width: 90px;
+    background-color: #fff;
+    background-image: url(../images/nine\ one.jpg);
+    color: #000;
+    background-repeat: no-repeat;
+}
+.op3 {
+    height: 140px;
+    width: 90px;
+    background-color: #fff;
+    background-image: url(../images/nine\ one.jpg);
+    color: #000;
+    background-repeat: no-repeat;
+}
+.op4 {
+    height: 140px;
+    width: 90px;
+    background-color: #fff;
+    background-image: url(../images/peng.jpg);
+    color: #fff;
+    background-repeat: no-repeat;
+}
+.tcm1 {
+    position: absolute;
+    top: 0px;
+    left: 90px;
+    height: 30px;
+    width: 440px;
+    background-color: #b45b3e;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+}
+.tcm2 {
+    position: absolute;
+    top: 30px;
+    left: 90px;
+    height: 30px;
+    width: 440px;
+    background-color: #fbfbea;
+    text-align: center;
+    line-height: 30px;
+}
+.tcm3 {
+    position: absolute;
+    top: 60px;
+    left: 90px;
+    height: 30px;
+    width: 440px;
+    background-color: #fbfbea;
+    text-align: center;
+    line-height: 30px;
+}
+.tcm4 {
+    position: absolute;
+    top: 90px;
+    left: 90px;
+    height: 30px;
+    width: 440px;
+    background-color: #fbfbea;
+    text-align: center;
+    line-height: 30px;
+}
+.tcm5 {
+    position: absolute;
+    top: 120px;
+    left: 90px;
+    height: 30px;
+    width: 440px;
+    background-color: #fbfbea;
+    text-align: center;
+    line-height: 30px;
+}
+.tcm6 {
+    position: absolute;
+    top: 150px;
+    left: 90px;
+    height: 30px;
+    width: 440px;
+    background-color: #fbfbea;
+    text-align: center;
+    line-height: 30px;
+}
+.tcm7 {
+    position: absolute;
+    top: 180px;
+    left: 90px;
+    height: 30px;
+    width: 440px;
+    background-color: #fbfbea;
+    text-align: center;
+    line-height: 30px;
+}
+.tcm8 {
+    position: absolute;
+    top: 210px;
+    left: 90px;
+    height: 30px;
+    width: 440px;
+    background-color: #fbfbea;
+    text-align: center;
+    line-height: 30px;
+}
+.tcm9 {
+    position: absolute;
+    top: 240px;
+    left: 90px;
+    height: 30px;
+    width: 440px;
+    background-color: #fbfbea;
+    text-align: center;
+    line-height: 30px;
+}
+.tcm10 {
+    position: absolute;
+    top: 270px;
+    left: 90px;
+    height: 30px;
+    width: 440px;
+    background-color: #fbfbea;
+    text-align: center;
+    line-height: 30px;
+}
+.tcm11 {
+    position: absolute;
+    top: 300px;
+    left: 90px;
+    height: 30px;
+    width: 440px;
+    background-color: #fbfbea;
+    text-align: center;
+    line-height: 30px;
+}
+.sss {
+    position: absolute;
+    top: 555px;
+    left: 707px;
+    height: 230px;
+    width: 440px;
+    background-color: #b1191a;
+    background-image: url(../images/r\ three.jpeg);
+    background-repeat: no-repeat;
+}
+.ccc {
+    position: absolute;
+    top: 225px;
+    right: 136px;
+    height: 330px;
+    width: 190px;
+    background-color: #000;
+    background-image: url(../images/wenhua.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.wen1 {
+    position: absolute;
+    top: 579px;
+    right: 136px;
+    height: 30px;
+    width: 190px;
+background-color: white;
+text-align: center;
+line-height: 30px;
+}
+.wen2 {
+    position: absolute;
+    top: 609px;
+    right: 136px;
+    height: 30px;
+    width: 190px;
+background-color: white;
+text-align: center;
+line-height: 30px;
+}
+.wen3 {
+    position: absolute;
+    top: 639px;
+    right: 136px;
+    height: 30px;
+    width: 190px;
+background-color: white;
+text-align: center;
+line-height: 30px;
+}
+.wen4 {
+    position: absolute;
+    top: 669px;
+    right: 136px;
+    height: 30px;
+    width: 190px;
+background-color: white;
+text-align: center;
+line-height: 30px;
+}
+.wen5 {
+    position: absolute;
+    top: 699px;
+    right: 136px;
+    height: 30px;
+    width: 190px;
+background-color: white;
+text-align: center;
+line-height: 30px;
+}
+.wen6 {
+    position: absolute;
+    top: 729px;
+    right: 136px;
+    height: 30px;
+    width: 190px;
+background-color: white;
+text-align: center;
+line-height: 30px;
+}
+.wen7 {
+    position: absolute;
+    top: 755px;
+    right: 136px;
+    height: 30px;
+    width: 190px;
+background-color: white;
+text-align: center;
+line-height: 30px;
+}
+.biaoti {
+    position: absolute;
+    top: 555px;
+    right: 136px;
+    height: 24px;
+    width: 190px;
+    background-color: antiquewhite;
+    text-align: center;
+    line-height: 30px;
+    color: #000;
+}
+.xiu {
+    position: absolute;
+    top: 145px;
+    right: 319px;
+    background-color: #000;
+    height: 80px;
+    width: 7px;
+    background-image: url(../images/R.jpg);
+}
